@@ -52,7 +52,7 @@ body {
   
   .chat {
     /* width: 490px; */
-    float: left;
+    /* float: left; */
     background: #F2F5F8;
     border-top-right-radius: 5px;
     border-bottom-right-radius: 5px;
